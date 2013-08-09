@@ -11,7 +11,7 @@
 #import <CommonCrypto/CommonDigest.h>
 #import <CommonCrypto/CommonHMAC.h>
 #import <sys/sysctl.h>
-#import "NSData+Base64.h"
+#import "NSData+MKBase64.h"
 #import "TMSDKFunctions.h"
 
 @interface TMOAuth()
